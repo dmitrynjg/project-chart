@@ -1,13 +1,15 @@
 {
   "files": {
-    "main.js": "/project-react-chart/static/js/main.1b22bfae.chunk.js",
-    "main.js.map": "/project-react-chart/static/js/main.1b22bfae.chunk.js.map",
-    "runtime~main.js": "/project-react-chart/static/js/runtime~main.266dc198.js",
-    "runtime~main.js.map": "/project-react-chart/static/js/runtime~main.266dc198.js.map",
-    "static/js/2.6d4ef578.chunk.js": "/project-react-chart/static/js/2.6d4ef578.chunk.js",
-    "static/js/2.6d4ef578.chunk.js.map": "/project-react-chart/static/js/2.6d4ef578.chunk.js.map",
-    "index.html": "/project-react-chart/index.html",
-    "precache-manifest.3cf74b0b3c9423f8833d4136683dca76.js": "/project-react-chart/precache-manifest.3cf74b0b3c9423f8833d4136683dca76.js",
-    "service-worker.js": "/project-react-chart/service-worker.js"
+    "main.css": "/project-chart/static/css/main.a40ec5e3.chunk.css",
+    "main.js": "/project-chart/static/js/main.772b8dbd.chunk.js",
+    "main.js.map": "/project-chart/static/js/main.772b8dbd.chunk.js.map",
+    "runtime~main.js": "/project-chart/static/js/runtime~main.67854bc6.js",
+    "runtime~main.js.map": "/project-chart/static/js/runtime~main.67854bc6.js.map",
+    "static/js/2.5e226bcc.chunk.js": "/project-chart/static/js/2.5e226bcc.chunk.js",
+    "static/js/2.5e226bcc.chunk.js.map": "/project-chart/static/js/2.5e226bcc.chunk.js.map",
+    "index.html": "/project-chart/index.html",
+    "precache-manifest.fb835bb8e15c45d4a5fc11e29d7e704e.js": "/project-chart/precache-manifest.fb835bb8e15c45d4a5fc11e29d7e704e.js",
+    "service-worker.js": "/project-chart/service-worker.js",
+    "static/css/main.a40ec5e3.chunk.css.map": "/project-chart/static/css/main.a40ec5e3.chunk.css.map"
   }
 }
