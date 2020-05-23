@@ -1,7 +1,7 @@
 {
   "name": "react",
   "version": "1.0.0",
-  "homepage": "https://dmitrynjg.github.io/project-react-chart",
+  "homepage": "https://dmitrynjg.github.io/project-chart",
   "proxy": "http://cbr.ru",
   "description": "React example starter project",
   "keywords": [

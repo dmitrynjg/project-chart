@@ -20,6 +20,11 @@ body {
 .rate-currancy{
   position: relative;
   height: 100%;
+  display: flex;
+  flex-direction: column;
+}
+.recharts-responsive-container{
+  flex:1;
 }
 .rate-currancy button {
   padding: 10px;
@@ -30,7 +35,7 @@ body {
 }
 .rate-currancy-chart{
   display: flex;
-  height: 100%;
+  height: 30%;
   flex-flow:column;
 }
 .rate-currancy h2 {

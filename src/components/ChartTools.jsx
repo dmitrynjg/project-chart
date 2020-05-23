@@ -9,7 +9,7 @@ class ChartTools extends React.Component {
   constructor(){
     super();
       const dateToReq = new Date().toLocaleDateString().replace(/[.]/g, '/');
-      const url = `http://cbr.ru/scripts/XML_dynamic.asp?date_req1=01/01/1970&date_req2=${dateToReq}&VAL_NM_RQ=${state.currency.unique_id}`;
+      const url = `scripts/XML_dynamic.asp?date_req1=01/01/1970&date_req2=${dateToReq}&VAL_NM_RQ=${state.currency.unique_id}`;
       loadDataRate(url).then(res => {
         if(typeof res === 'object'){
         state.dataCurrency = res.Record;
